@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">YodaSpeak</string>
+    <string name="api_key">KqyMTcN6ETmsh2vyyFXZe87yV0Bvp1drkzOjsnUDbybzKWYsYV</string>
+    <string name="request">GET YODA SPEAK</string>
+    <string name="enter_hint">Enter Text to convert</string>
+    <string name="quote">“%s”</string>
+</resources>
